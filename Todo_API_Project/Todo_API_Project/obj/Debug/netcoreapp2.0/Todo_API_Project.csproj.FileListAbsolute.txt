@@ -1,0 +1,11 @@
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/bin/Debug/netcoreapp2.0/Todo_API_Project.deps.json
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/bin/Debug/netcoreapp2.0/Todo_API_Project.runtimeconfig.json
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/bin/Debug/netcoreapp2.0/Todo_API_Project.runtimeconfig.dev.json
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/bin/Debug/netcoreapp2.0/Todo_API_Project.dll
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/bin/Debug/netcoreapp2.0/Todo_API_Project.pdb
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.csprojResolveAssemblyReference.cache
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.csproj.CoreCompileInputs.cache
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.AssemblyInfoInputs.cache
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.AssemblyInfo.cs
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.dll
+/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj/Debug/netcoreapp2.0/Todo_API_Project.pdb
