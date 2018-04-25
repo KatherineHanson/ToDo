@@ -12570,11 +12570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/Todo_API_Project.csproj",
+      "projectUniqueName": "/Users/katherinehanson/Projects/TodoApi/ToDo/Todo_API_Project/Todo_API_Project/Todo_API_Project.csproj",
       "projectName": "Todo_API_Project",
-      "projectPath": "/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/Todo_API_Project.csproj",
+      "projectPath": "/Users/katherinehanson/Projects/TodoApi/ToDo/Todo_API_Project/Todo_API_Project/Todo_API_Project.csproj",
       "packagesPath": "/Users/katherinehanson/.nuget/packages/",
-      "outputPath": "/Users/katherinehanson/Projects/Todo_API_Project/Todo_API_Project/obj",
+      "outputPath": "/Users/katherinehanson/Projects/TodoApi/ToDo/Todo_API_Project/Todo_API_Project/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
