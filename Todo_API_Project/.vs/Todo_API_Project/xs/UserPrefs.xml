@@ -10,7 +10,7 @@
       <File FileName="Todo_API_Project/Properties/launchSettings.json" Line="14" Column="22" />
       <File FileName="Todo_API_Project/Startup.cs" Line="51" Column="85" />
       <File FileName="Todo_API_Project/Program.cs" Line="17" Column="1" />
-      <File FileName="Todo_API_Project/appsettings.json" Line="10" Column="23" />
+      <File FileName="Todo_API_Project/appsettings.json" Line="10" Column="62" />
       <File FileName="Todo_API_Project/appsettings.Development.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
