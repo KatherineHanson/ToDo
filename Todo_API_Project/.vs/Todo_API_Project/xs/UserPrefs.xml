@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{3B055044-6C88-4A13-85AD-0C4DD6B00DCF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Todo_API_Project/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo_API_Project/Models/TodoItem.cs">
     <Files>
       <File FileName="Todo_API_Project/Controllers/TodoController.cs" Line="28" Column="10" />
       <File FileName="Todo_API_Project/Controllers/AccountController.cs" Line="16" Column="74" />
