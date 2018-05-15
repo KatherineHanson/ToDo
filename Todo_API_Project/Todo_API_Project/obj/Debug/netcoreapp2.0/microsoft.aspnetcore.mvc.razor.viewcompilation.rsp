@@ -1,0 +1,12 @@
+/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=Todo_API_Project
+--content-root=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/About.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/Contact.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/Error.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/Index.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/_Layout.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/_ValidationScriptsPartial.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/_ViewImports.cshtml
+--file=/Users/katherinehanson/Projects/ToDo/Todo_API_Project/Todo_API_Project/Pages/_ViewStart.cshtml
