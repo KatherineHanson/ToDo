@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{3B055044-6C88-4A13-85AD-0C4DD6B00DCF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Todo_API_Project/Models/TodoItem.cs">
-    <Files>
-      <File FileName="Todo_API_Project/Models/TodoItem.cs" Line="4" Column="6" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.ItemProperties.Todo__API__Project PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
